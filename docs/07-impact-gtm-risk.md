@@ -1,6 +1,6 @@
 # Impact, Go-To-Market & Rủi ro
 
-> Các số liệu/giá là **giả định**; Người B thay bằng số liệu có nguồn hoặc kết quả phỏng vấn trước khi pitch.
+> Các số liệu/giá là **giả định**; 
 
 ## Impact 
 | Bên | Lợi ích | Đo bằng |
