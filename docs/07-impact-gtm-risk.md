@@ -2,7 +2,7 @@
 
 > Các số liệu/giá là **giả định**; Người B thay bằng số liệu có nguồn hoặc kết quả phỏng vấn trước khi pitch.
 
-## Impact (15đ)
+## Impact 
 | Bên | Lợi ích | Đo bằng |
 |---|---|---|
 | Đơn vị cấp | Tiết kiệm thời gian chấm/cấp, thương hiệu uy tín | giờ công / sự kiện |
