@@ -9,6 +9,34 @@ try {
 }
 
 const app = express();
+// Allow requests from deployed Vercel frontend
+app.use((req, res, next) => {
+  const allowedOrigins = [
+    "https://skill-pass-bay.vercel.app"
+  ];
+
+  const origin = req.headers.origin;
+
+  if (origin && allowedOrigins.includes(origin)) {
+    res.setHeader("Access-Control-Allow-Origin", origin);
+  }
+
+  res.setHeader("Vary", "Origin");
+  res.setHeader(
+    "Access-Control-Allow-Methods",
+    "GET, POST, PUT, DELETE, OPTIONS"
+  );
+  res.setHeader(
+    "Access-Control-Allow-Headers",
+    "Content-Type, Authorization"
+  );
+
+  if (req.method === "OPTIONS") {
+    return res.sendStatus(204);
+  }
+
+  next();
+});
 app.use(express.json({ limit: "32kb" }));
 
 // Tiny in-memory rate limit: 20 req / minute / IP (protects the API key during a public demo)
