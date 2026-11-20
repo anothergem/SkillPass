@@ -1,6 +1,6 @@
 # SkillPass — Product One-Pager
 
-**Một câu:** SkillPass biến bằng chứng học tập thành *chứng chỉ kỹ năng có điểm AI, xác minh trên Avalanche trong 10 giây*, không cần gọi điện hay xin email xác nhận.
+**Giới thiệu:** SkillPass biến bằng chứng học tập thành *chứng chỉ kỹ năng có điểm AI, xác minh trên Avalanche trong 10 giây*, không cần gọi điện hay xin email xác nhận.
 
 | | |
 |---|---|
