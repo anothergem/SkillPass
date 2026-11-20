@@ -1,4 +1,4 @@
-# Avalanche Integration Proof (điền sau khi deploy)
+# Avalanche Integration Proof 
 
 > Môi trường tạo project không truy cập được Avalanche RPC nên contract **chưa được deploy thật**. Contract đã biên dịch và pass 5 test trong EVM cục bộ. **Bạn phải deploy và dán link thật vào đây** trước khi nộp.
 
