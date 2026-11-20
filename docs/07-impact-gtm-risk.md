@@ -9,9 +9,6 @@
 | Sinh viên | Hồ sơ kỹ năng đáng tin, thu hồi/nhận lại được | số link chia sẻ |
 | Nhà tuyển dụng | Xác minh trong 10 giây | thời gian xác minh |
 
-Phỏng vấn (điền): 1) `[ĐIỀN: ai, trích dẫn ngắn]` 2) `[ĐIỀN]` 3) `[ĐIỀN]`
-Câu hỏi gợi ý: lần gần nhất bạn cần chứng minh một kỹ năng là khi nào? Có từng nghi ngờ một chứng chỉ không? Dùng link xác minh 10 giây có chấp nhận/trả tiền không?
-
 ## Go-to-market
 1. **Beachhead:** BTC hackathon và CLB sinh viên (cấp nhiều chứng nhận, quyết định nhanh).
 2. Bootcamp/trung tâm đào tạo → khoa/trường (có thể dùng **L1 Avalanche riêng**).
@@ -20,7 +17,7 @@ Câu hỏi gợi ý: lần gần nhất bạn cần chứng minh một kỹ năn
 | Gói (giả định) | Dành cho | Giá |
 |---|---|---|
 | Free | ≤30 credential/sự kiện | 0 |
-| Pay-per-credential | CLB/hackathon | `[ĐIỀN, ví dụ 0.2–0.5 USD]` |
+| Pay-per-credential | CLB/hackathon | Đang cân nhắc |
 | Institution | Trường/bootcamp (thương hiệu riêng, API) | theo năm, sau pilot |
 
 Kênh: nhắn 20 CLB/BTC, cộng đồng Avalanche/Team1 Vietnam, video "Valid vs Not found" 60 giây.
